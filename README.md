@@ -12,7 +12,7 @@ send the payment screenshot to alphasas@yandex.com   and youll receive the passw
  
  use the password to unzip the package and open the app
  
- 
+ predict the same color (red/green ) for 4 times(itll work only 4 combo) clear the cache and use again 
  
  
  
